@@ -1,4 +1,6 @@
 /data/
 /models/
 */.ipynb_checkpoints/
+*/teste*
+*.pyc
 
