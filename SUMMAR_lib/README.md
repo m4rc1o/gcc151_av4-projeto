@@ -9,6 +9,7 @@ Para utilizar esta biblioteca você deve clonar o diretório deste projeto e cop
 e extraí-los no diretório models/
 * baixar os arquivos do link https://drive.google.com/open?id=1-KJvyksSZuuuwD2I4eo2xbkYbUAZX_LG
 e extraí-los no diretório data/
+* instalar todas as dependências listadas no arquivo requirements.txt
 
 Após os procedimentos acima, você poderá importar a biblioteca utilizando da seguinte forma `from SUMMAR_lib import sumarizacao`, então, você poderá sumarizar seus textos utilizando `sumarizacao.gerar_sumario(texto)`.
 
