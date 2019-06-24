@@ -26,8 +26,8 @@ nltk.download('rslp')
 nltk.download('stopwords')
 normalizer = n.Normalizer()
 
-path_modelo = "drive/My Drive/text_sumarizer/models/sum/best_model.ckpt"
-path_token2int = "drive/My Drive/text_sumarizer/data/token2int_int2token.pickle"
+path_modelo = "models/best_model.ckpt"
+path_token2int = "data/token2int_int2token.pickle"
 
 with open(path_token2int, "rb") as infile:
     token2int, int2token = pickle.load(infile)
