@@ -7,3 +7,4 @@ justext
 urllib3
 wget
 pandas
+unidecode
