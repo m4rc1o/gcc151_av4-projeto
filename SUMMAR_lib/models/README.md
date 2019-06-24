@@ -1,2 +1,2 @@
 Você deve baixar os arquivos do link https://drive.google.com/open?id=1J$
-e extraí-los no diretório que contém este README
+e extraí-los neste diretório
