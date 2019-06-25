@@ -5,7 +5,7 @@ Biblioteca de sumarização textual para produzir curto sumários abstrativos a 
 ## Utilização
 Para utilizar esta biblioteca você deve clonar o diretório deste projeto e copiar o diretório chamado SUMMAE-lib para seu projeto python3 e realizar os seguintes procedimentos:
 
-* baixar os arquivos do [link](https://drive.google.com/open?id=1JGD7zNxWNsIyTeMGjKEuOf9fAREJjVRk)
+* baixar os arquivos do [link](https://drive.google.com/open?id=1XJAAglTtQ_kmB2PUDpwgvar_cXwYilFg)
 e extraí-los no diretório models/
 * baixar os arquivos do [link](https://drive.google.com/open?id=1-KJvyksSZuuuwD2I4eo2xbkYbUAZX_LG)
 e extraí-los no diretório data/
